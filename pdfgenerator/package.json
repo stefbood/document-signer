@@ -11,7 +11,7 @@
   "author": "Steffan Boodhoo",
   "license": "ISC",
   "dependencies": {
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "html2canvas": "^1.0.0-alpha.12",
     "html2pdf.js": "^0.9.1",
     "jspdf": "^1.5.3",
