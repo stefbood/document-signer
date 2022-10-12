@@ -13,8 +13,8 @@
   "dependencies": {
     "acorn": "^6.1.1",
     "html2canvas": "^1.0.0-alpha.12",
-    "html2pdf.js": "^0.9.1",
-    "jspdf": "^1.5.3",
+    "html2pdf.js": "^0.10.1",
+    "jspdf": "^2.5.1",
     "signature_pad": "^3.0.0-beta.3"
   },
   "devDependencies": {
